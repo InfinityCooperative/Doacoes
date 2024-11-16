@@ -10,13 +10,13 @@ body{
 }
 .bandeira {
     position: absolute;
-    margin: -56px 0 0 85%;
+    margin: -56px 0 0 35%;
     height: 80px;
     transition: 1s;
 }
 .bandeira:hover {
     position: absolute;
-    margin: -16px 0 0 85%;
+    margin: -16px 0 0 35%;
     height: 80px;
     transition: 1s;
 }
