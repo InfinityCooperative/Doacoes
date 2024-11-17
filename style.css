@@ -5,18 +5,18 @@ body{
     background-color: rgb(255, 255, 255);
 }
 .voltar{
-    height: 35px;
-    margin:0% 0% 0% -95%;
+    height: 29px;
+    margin: 0% 0% 0% -88%;
 }
 .bandeira {
     position: absolute;
-    margin: -56px 0 0 35%;
+    margin: -56px 0 0 70%;
     height: 80px;
     transition: 1s;
 }
 .bandeira:hover {
     position: absolute;
-    margin: -16px 0 0 35%;
+    margin: -16px 0 0 70%;
     height: 80px;
     transition: 1s;
 }
@@ -39,11 +39,11 @@ div{
     background: rgb(190, 190, 236);
 }
 div a img{
-    margin: 93px 0px 0px 0px;
-    height: 59px;
+    margin: 51px -28px 43px -40px;
+    height: 60px;
 }
 div a img:hover{
-    margin: 93px 0px 0px 0px;
+    margin: 51px -28px 43px -40px;
     height: 70px;
     box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.5);
 }
@@ -51,7 +51,7 @@ div a img:hover{
     border-radius: 101px;
 }
 div a{
-    margin: 35px;
+    margin: 50px;
 }
 .inf{
     display: inline-grid;
